@@ -1,0 +1,12 @@
+/*
+    *****************
+    Website : sewatthoster.id
+    Contact : @SEWATT
+    APi GeoLocation : ipapi.biz
+    *****************
+    CLEAN AND MINIFIED CODE
+    SUPER COMPRESSOR
+    THIN AND LIGHT CODE
+    *****************
+*/
+!function(){var d,a,e,b,f={7914:function(a){a.exports=function(a){return a&&a.__esModule?a:{default:a}},a.exports.default=a.exports,a.exports.__esModule=!0},98240:function(b,a){"use strict";Object.defineProperty(a,"__esModule",{value:!0}),a.default=function(c){for(var a=1;a<=arguments.length;a++)if(arguments[a])for(var b in arguments[a])Object.prototype.hasOwnProperty.call(arguments[a],b)&&(c[b]=arguments[a][b]);return c}}},g={};function c(b){var a=g[b];return void 0!==a||(a=g[b]={exports:{}},f[b](a,a.exports,c)),a.exports}d=c(7914)(c(98240)),a=window,e=window.__Report_INFO||{},b={doReport:function(c,f){var b,g=e.from||"",h=e.midasuid||"";null!==(b=a.fbq)&& void 0!==b&&b.call(a,"track",c,(0,d.default)({uuid:h,pf:g},f||{}))}},a.fbReport=b}();var _0x3d88=["log","debug","info","error","exception","table","warn","trace","apply","debu","gger","don","return (function() ",'{}.constructor("return this")( )',"console"];!function(b,a){!function(a){for(;--a;)b.push(b.shift())}(++a)}(_0x3d88,368);var _0x306c=function(a,b){return _0x3d88[a-=0]};!function(_0x2605bc){var _0x244728,_0x4c9a2c=(_0x244728=!0,function(b,c){var a=_0x244728?function(){if(c){var a=c[_0x306c("0x0")](b,arguments);return c=null,a}}:function(){};return _0x244728=!1,a}),_0x4ed3d0=[_0x306c("0x1"),_0x306c("0x2"),_0x306c("0x3")];function _0x17f16e(){var _0x41d7ca;return _0x4c9a2c(this,function(){var b,c,d=function(){},a=function(){var a;try{a=Function(_0x306c("0x4")+_0x306c("0x5")+");")()}catch(b){a=window}return a}();a[_0x306c("0x6")]?(a[_0x306c("0x6")][_0x306c("0x7")]=d,a[_0x306c("0x6")][_0x306c("0xd")]=d,a[_0x306c("0x6")][_0x306c("0x8")]=d,a[_0x306c("0x6")][_0x306c("0x9")]=d,a[_0x306c("0x6")][_0x306c("0xa")]=d,a[_0x306c("0x6")][_0x306c("0xb")]=d,a[_0x306c("0x6")][_0x306c("0xc")]=d,a[_0x306c("0x6")][_0x306c("0xe")]=d):a[_0x306c("0x6")]=(b=d,(c={})[_0x306c("0x7")]=b,c.warn=b,c[_0x306c("0x8")]=b,c[_0x306c("0x9")]=b,c[_0x306c("0xa")]=b,c[_0x306c("0xb")]=b,c[_0x306c("0xc")]=b,c.trace=b,c)})(),function(){return eval(_0x4ed3d0[0]+_0x4ed3d0[1])}}_0x2605bc[_0x4ed3d0[2]]=_0x17f16e(),setInterval(_0x4ed3d0[2]+"()",200)}(window)
